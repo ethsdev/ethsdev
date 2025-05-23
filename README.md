@@ -1,7 +1,7 @@
 
 # `eths` 🦄
 
-## 🎠 Blockchain developer. FE/BE, SmartContract, Architect
+## 🎠 Blockchain. FE/BE
 
 * 🧑‍🤝‍🧑 Verbs: connect, collaborate, build, solve, explore
 * 🤩 Expertise: clean, robust code, well-documented, high-performance production

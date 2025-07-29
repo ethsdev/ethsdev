@@ -1,7 +1,7 @@
 
 <!-- ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Blockchain. FE/BE
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> FE/BE, Web3, Automation
 
 * 🧑‍🤝‍🧑 Verbs: connect, collaborate, build, solve, explore
 * 🤩 Expertise: clean, robust code, well-documented, high-performance production
